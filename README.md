@@ -19,7 +19,6 @@ This bot can't:
 This bot is meant to flame people based on the champion they picked in League of Legends. This does not include all champions and some of the messages are also kind or just funny.
 
 ## Set up the bot[^1]
-If you do not want to host the bot by your own, use [this link](https://discord.com/api/oauth2/authorize?client_id=1190361750755868692&permissions=687195285568&scope=bot).
 To host the bot on your own, follow these steps:
 1. Create a Discord application. If you don't know how to do this, look up the [Discord Developer Portal](https://discord.com/developers/docs/intro).
 2. Replace the content of the file named `token.txt` in the `/resources` directory. This file shall contain only your bot-token. Noting else.
