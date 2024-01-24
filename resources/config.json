@@ -1,0 +1,5 @@
+{
+    "game_scope": "League of Legends",
+    "__comment1__": "Note: iteration_cycle is stored in minutes!    |    Also the iteration_cycle should not be noo long, since for the dedection if a champ has changed it is necessary to 'catch' the player having non status between matches  ",
+    "iteration_cycle": "1"
+}
